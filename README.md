@@ -1,0 +1,1 @@
+Code to featurize IDR sequences of transcription factors, transcriptional coactivators, and other nuclear proteins using statistical features and analyze if there is predictive power in the IDRs for function
